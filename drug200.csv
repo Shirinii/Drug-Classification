@@ -1,4 +1,4 @@
-Age,Sex,BP,Cholesterol,Potassium_Ration,Drug
+Age,Sex,BP,Cholesterol,Potassium_Rate,Drug
 23,F,HIGH,HIGH,25.355,drugY
 47,M,LOW,HIGH,13.093,drugC
 47,M,LOW,HIGH,10.114,drugC
